@@ -1,2 +1,2 @@
 *{box-sizing:border-box}body,html{font-size:12px;margin:0;padding:0;font-family:sans-serif}#app{height:100vh;justify-content:center;align-content:center;align-items:center}#app,#countdown{display:flex}#countdown article{border:1px solid #aaa;border-radius:4px;padding:1rem;width:7rem;display:flex;flex-direction:column;justify-content:center;align-items:center;color:#aaa;font-size:.9rem}#countdown article+article{margin-left:1rem}#countdown article p{margin:0;padding:0}#countdown article strong{font-size:2rem;color:#000;font-weight:300}
-/*# sourceMappingURL=/src.ca4ec173.css.map */
+/*# sourceMappingURL=/countdown/src.ca4ec173.css.map */
